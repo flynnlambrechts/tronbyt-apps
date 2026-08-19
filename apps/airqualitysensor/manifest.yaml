@@ -1,0 +1,6 @@
+---
+id: air-quality-sensor
+name: Air Quality Sensor
+summary: Air quality readings and warning
+desc: Displays air quality sensor measuremnts and warnings.
+author: flynnlambrechts
